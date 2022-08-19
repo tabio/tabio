@@ -1,4 +1,4 @@
-name: Generate GitHubProfile SummaryCards
+name: Update GitHubProfile SummaryCards
 
 on:
   schedule: # execute every 24 hours
