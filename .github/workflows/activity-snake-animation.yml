@@ -1,6 +1,8 @@
 name: Update Contribution Animation
 
 on:
+  schedule: # execute every 24 hours
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
@@ -28,6 +30,7 @@ jobs:
         base: main
         branch: snake-animation
         commit-message: "Update Contribution Animation"
+        delete-branch: true
         draft: false
         signoff: false
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
