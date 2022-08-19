@@ -29,6 +29,7 @@ jobs:
       with:
         base: main
         branch: snake-animation
+        branch-suffix: timestamp
         commit-message: "Update Contribution Animation"
         delete-branch: true
         draft: false
