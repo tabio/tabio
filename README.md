@@ -16,5 +16,7 @@
 [![](https://raw.githubusercontent.com/tabio/tabio/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tabio/tabio/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/tabio/tabio/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/tabio/tabio/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tabio&theme=darcula&hide_border=true&locale=ja)](https://git.io/streak-stats)
+
 ![contribution animation](images/github-snake-dark.svg "contribution animation")
 
