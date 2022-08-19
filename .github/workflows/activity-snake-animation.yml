@@ -33,7 +33,7 @@ jobs:
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         title: "update contribution animation"
 
-    # - name: merge PR
-    #     env:
-    #       GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-    #     run: gh pr merge ${{ steps.cpr.outputs.pull-request-url }} --merge
+    - name: merge PR
+      env:
+        GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      run: gh pr merge ${{ steps.cpr.outputs.pull-request-url }} --merge
