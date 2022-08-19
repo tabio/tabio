@@ -12,7 +12,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
       with:
-        ref: 'main'
+        ref: main
 
     - name: generate github-contribution-grid-snake.svg
       uses: Platane/snk@v2
@@ -29,9 +29,7 @@ jobs:
       with:
         base: main
         branch: snake-animation
-        branch-suffix: timestamp
         commit-message: "Update Contribution Animation"
-        delete-branch: true
         draft: false
         signoff: false
         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
