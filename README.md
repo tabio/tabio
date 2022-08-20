@@ -1,4 +1,4 @@
-## Contribute Blog
+## Blog Posts
 
 ### [KAKEHASHI Tech Blog](https://kakehashi-dev.hatenablog.com/)
 
