@@ -31,3 +31,5 @@
 
 ![contribution animation](images/github-snake-dark.svg "contribution animation")
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
