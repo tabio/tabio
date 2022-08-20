@@ -32,7 +32,7 @@
 ![contribution animation](images/github-snake-dark.svg "contribution animation")
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -63,13 +63,18 @@ Sunday       1 commits      █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   42 mins             ████████████████░░░░░░░░░   66.33% 
+Markdown                 16 mins             ██████░░░░░░░░░░░░░░░░░░░   25.71% 
+TOML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.47% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.12%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  59 mins             ███████████████████████░░   94.11% 
+Neovim                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.89%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -78,5 +83,5 @@ No Activity Tracked This Week
 ![Chart not found](https://raw.githubusercontent.com/tabio/tabio/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2022 14:37:38 UTC
+ Last Updated on 20/08/2022 18:42:39 UTC
 <!--END_SECTION:waka-->
