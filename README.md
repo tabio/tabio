@@ -73,22 +73,10 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Ruby** 
-
-```text
-Ruby                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Vim script               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
-
-
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/tabio/tabio/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/08/2022 14:33:45 UTC
+ Last Updated on 20/08/2022 14:37:38 UTC
 <!--END_SECTION:waka-->
