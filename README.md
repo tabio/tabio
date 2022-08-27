@@ -17,7 +17,7 @@
 
 ## Summary Activity
 
-<p align="left"> 
+<p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabio&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tabio&theme=onedark&show_icons=ture" />
 </p>
@@ -34,52 +34,52 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-59%20mins-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    15 commits     ████████████████░░░░░░░░░   65.22% 
-🌆 Daytime    5 commits      █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-🌃 Evening    3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+🌞 Morning    15 commits     ████████████████░░░░░░░░░   65.22%
+🌆 Daytime    5 commits      █████░░░░░░░░░░░░░░░░░░░░   21.74%
+🌃 Evening    3 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.04%
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Saturday** 
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday       5 commits      █████░░░░░░░░░░░░░░░░░░░░   21.74% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Thursday     1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     16 commits     █████████████████░░░░░░░░   69.57% 
+Monday       5 commits      █████░░░░░░░░░░░░░░░░░░░░   21.74%
+Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Wednesday    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Thursday     1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Saturday     16 commits     █████████████████░░░░░░░░   69.57%
 Sunday       1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Tokyo
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Ruby** 
+**I Mostly Code in Ruby**
 
 ```text
-Ruby                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+Ruby                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57%
+Python                   6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43%
+TypeScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43%
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 Vim script               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 ```
@@ -87,8 +87,18 @@ Vim script               2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/tabio/tabio/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/tabio/tabio/main/charts/bar_graph.png)
 
 
  Last Updated on 20/08/2022 14:33:45 UTC
 <!--END_SECTION:waka-->
+
+## Certification Badges
+
+<p align="left">
+  <img src="images/ruby_gold.svg" height="100px">
+  <img src="images/ruby_silver.svg" height="100px">
+  <img src="images/deep_learning_general.svg" height="100px">
+  <img src="images/aws-certified-developer-associate.png" height="100px">
+  <img src="images/aws-certified-solutions-architect-associate.png" height="100px">
+</p>
