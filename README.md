@@ -1,5 +1,6 @@
 ## Blog Posts
 
+- [Amplify Studioでチームポータルページを作ってみた](https://kakehashi-dev.hatenablog.com/entry/2022/10/18/100000)
 - [AWSの負荷テストソリューションを使ったGraphQLの負荷テスト](https://kakehashi-dev.hatenablog.com/entry/2022/08/31/100000)
 - [【開発者でもできる!】OWASP ZAPを利用したGraphQLアプリケーションへの脆弱性診断](https://kakehashi-dev.hatenablog.com/entry/2022/08/17/100000)
 - [Presigned URLを利用したS3へのファイルアップロード](https://kakehashi-dev.hatenablog.com/entry/2022/03/15/101500)
