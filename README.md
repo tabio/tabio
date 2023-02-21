@@ -10,6 +10,7 @@
 
 ## Events
 
+- [お薬手帳アプリ開発におけるスピード開発x安定運用の取り組み](https://techplay.jp/event/888763)
 - [カケハシエンジニアLT会＠オンライン](https://kakehashi.connpass.com/event/243681/)
 - [DX Tech Talk #7 ソフトウェアの活用により対象ドメインの業務フローをどう変えているのか](https://layerx.connpass.com/event/213809/)
 - [医療DXスタートアップCTOが描く「医療とエンジニアリングの未来」](https://yojo.connpass.com/event/218693/)
