@@ -11,6 +11,7 @@
 ## Events
 
 - [【カケハシ/リクルート/LayerX】～テックリードが振り返るアンチパターン～ 新規サービス開発時に「スピード開発×安定運用」を実現するには？](https://techplay.jp/event/888763)
+  - [登壇資料](https://speakerdeck.com/kakehashi/deng-tan-oyao-shou-zhang-apurikai-fa-niokeru-supidokai-fa-x-an-ding-yun-yong-noqu-rizu-mi)
 - [カケハシエンジニアLT会＠オンライン](https://kakehashi.connpass.com/event/243681/)
 - [DX Tech Talk #7 ソフトウェアの活用により対象ドメインの業務フローをどう変えているのか](https://layerx.connpass.com/event/213809/)
 - [医療DXスタートアップCTOが描く「医療とエンジニアリングの未来」](https://yojo.connpass.com/event/218693/)
