@@ -33,6 +33,7 @@
   <img src="images/deep_learning_general.svg" height="80px">
   <img src="images/aws-certified-developer-associate.png" height="80px">
   <img src="images/aws-certified-solutions-architect-associate.png" height="80px">
+  <img src="images/mabl-foundations.png" height="80px">
 </p>
 
 
