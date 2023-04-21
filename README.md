@@ -34,6 +34,7 @@
   <img src="images/aws-certified-developer-associate.png" height="80px">
   <img src="images/aws-certified-solutions-architect-associate.png" height="80px">
   <img src="images/mabl-foundations.png" height="80px">
+  <img src="images/mabl-advanced.png" height="80px">
 </p>
 
 
