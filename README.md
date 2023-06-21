@@ -1,5 +1,6 @@
 ## Blog Posts
 
+- [クロスアカウントアクセスでAppSync Private APIを使う話](https://kakehashi-dev.hatenablog.com/entry/2023/06/21/100000)
 - [GitHub Actions上でテストを約3倍早くした話](https://kakehashi-dev.hatenablog.com/entry/2023/03/14/103000)
 - [Amplify Studioでチームポータルページを作ってみた](https://kakehashi-dev.hatenablog.com/entry/2022/10/18/100000)
 - [AWSの負荷テストソリューションを使ったGraphQLの負荷テスト](https://kakehashi-dev.hatenablog.com/entry/2022/08/31/100000)
