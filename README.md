@@ -12,6 +12,8 @@
 
 ## Events
 
+- [tsukiji.graphql #1 @オンライン](https://tsukiji-graphql.connpass.com/event/281413/)
+  - [登壇資料](https://speakerdeck.com/kakehashi/tsukiji-dot-graphql-number-1-pocket-musubidenoappsyncnoshi-isuo)
 - [【カケハシ/リクルート/LayerX】～テックリードが振り返るアンチパターン～ 新規サービス開発時に「スピード開発×安定運用」を実現するには？](https://techplay.jp/event/888763)
   - [登壇資料](https://speakerdeck.com/kakehashi/deng-tan-oyao-shou-zhang-apurikai-fa-niokeru-supidokai-fa-x-an-ding-yun-yong-noqu-rizu-mi)
 - [カケハシエンジニアLT会＠オンライン](https://kakehashi.connpass.com/event/243681/)
