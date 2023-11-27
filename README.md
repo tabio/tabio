@@ -1,5 +1,6 @@
 ## Blog Posts
 
+- [コードフォーマッターをPrettierからdprintにしたら10倍以上速くなった話🚀](https://kakehashi-dev.hatenablog.com/entry/2023/11/27/103000)
 - [クロスアカウントアクセスでAppSync Private APIを使う話](https://kakehashi-dev.hatenablog.com/entry/2023/06/21/100000)
 - [GitHub Actions上でテストを約3倍早くした話](https://kakehashi-dev.hatenablog.com/entry/2023/03/14/103000)
 - [Amplify Studioでチームポータルページを作ってみた](https://kakehashi-dev.hatenablog.com/entry/2022/10/18/100000)
