@@ -14,6 +14,7 @@
 
 ## Events
 
+- [RSGT 2024](https://confengine.com/conferences/regional-scrum-gathering-tokyo-2024/schedule/rich#session-31548-info)
 - [キャリア座談会～ヘルスケアスタートアップの現役エンジニアとEMに聞く、キャリアと組織について～](https://kakehashi.connpass.com/event/297921/)
 - [tsukiji.graphql #1 @オンライン](https://tsukiji-graphql.connpass.com/event/281413/)
   - [登壇資料](https://speakerdeck.com/kakehashi/tsukiji-dot-graphql-number-1-pocket-musubidenoappsyncnoshi-isuo)
