@@ -15,6 +15,7 @@
 ## Events
 
 - [RSGT 2024 他者と働き、チームで成果を出す方法 ~ 人との関係からみるカケハシ ~](https://confengine.com/conferences/regional-scrum-gathering-tokyo-2024/schedule/rich#session-31548-info)
+    - [登壇資料](https://speakerdeck.com/kakehashi/kakehashi-of-the-relationship-between-members)
 - [キャリア座談会～ヘルスケアスタートアップの現役エンジニアとEMに聞く、キャリアと組織について～](https://kakehashi.connpass.com/event/297921/)
 - [tsukiji.graphql #1 @オンライン](https://tsukiji-graphql.connpass.com/event/281413/)
   - [登壇資料](https://speakerdeck.com/kakehashi/tsukiji-dot-graphql-number-1-pocket-musubidenoappsyncnoshi-isuo)
