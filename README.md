@@ -1,5 +1,6 @@
 ## Blog Posts
 
+- [draw.ioをつかったフレキシブルな設計図作成術](https://kakehashi-dev.hatenablog.com/entry/2024/09/17/110000)
 - [Slack次世代プラットフォームで業務効率化に貢献する💪](https://kakehashi-dev.hatenablog.com/entry/2023/12/14/091000)
 - [コードフォーマッターをPrettierからdprintにしたら10倍以上速くなった話🚀](https://kakehashi-dev.hatenablog.com/entry/2023/11/27/103000)
 - [クロスアカウントアクセスでAppSync Private APIを使う話](https://kakehashi-dev.hatenablog.com/entry/2023/06/21/100000)
