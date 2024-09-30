@@ -13,8 +13,9 @@
 - [チームで技術的負債とどう向き合って来たか](https://kakehashi-dev.hatenablog.com/entry/2021/08/31/080000)
 - [Kakehashi Looks to Modernize Pharmacies with AWS and Amplify](https://aws.amazon.com/jp/blogs/startups/kakehashi-looks-to-modernize-pharmacies-with-aws-and-amplify/)
 
-## Events
+## Events & Interview
 
+- [高速な仮説検証ループで届けた新規プロダクトの成果を既存プロダクトにも反映するドリームチームの開発手法 ─ カケハシyabusameインタビュー](https://agilejourney.uzabase.com/entry/2024/09/30/103000)
 - [RSGT 2024 他者と働き、チームで成果を出す方法 ~ 人との関係からみるカケハシ ~](https://confengine.com/conferences/regional-scrum-gathering-tokyo-2024/schedule/rich#session-31548-info)
     - [登壇資料](https://speakerdeck.com/kakehashi/kakehashi-of-the-relationship-between-members)
 - [キャリア座談会～ヘルスケアスタートアップの現役エンジニアとEMに聞く、キャリアと組織について～](https://kakehashi.connpass.com/event/297921/)
