@@ -68,6 +68,8 @@
 ![contribution animation](images/github-snake-dark.svg "contribution animation")
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C504%20hrs%2035%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -113,6 +115,6 @@ Mac                      11 hrs 6 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/tabio/tabio/main/assets/bar_graph.png)
 
 
- Last Updated on 10/11/2024 18:44:26 UTC
+ Last Updated on 12/11/2024 18:47:08 UTC
 <!--END_SECTION:waka-->
 
